@@ -1,0 +1,1 @@
+g++ main.cpp src/vm.cpp -o exec.out
